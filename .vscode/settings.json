@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/31431c42-69bd-4d64-8ba3-83a7abd68c23/resourceGroups/jpl-cnm-rg/providers/Microsoft.Web/sites/nlp-midterm",
+    "appService.deploySubpath": "Azure"
+}
