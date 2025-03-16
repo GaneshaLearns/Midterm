@@ -1,3 +1,6 @@
+# Description: This file contains the code for the NLP project. The code is written in Python and uses the Streamlit library for the web application.
+# The code reads the 20 newsgroup dataset and uses different classification methods to classify the data.
+
 # required libraries
 import os
 import glob
